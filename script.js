@@ -58,7 +58,6 @@ function process(data) {
     });
 }
 
-// Show welcome message on page load
 window.onload = function() {
     showWelcomeMessage();
 };
